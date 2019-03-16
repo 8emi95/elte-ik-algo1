@@ -1,0 +1,9 @@
+Gergely Szilágyi
+January 10 at 2:53pm
+
+Januar 10. Algo vizsga
+1) AVL fa maxtorol, beszur, semak felrajzolasa
+2) Sor tipus kifejtese, algoritmusainak stukijai
+3) FKCL kulonbseg(L1,L2) algo-t irni
+4) EL-re MergeSort stukijai
+5) Fv. aszimptot viselkedes, ordo, omega fv halmaz def, osszefugges thetaval, illetve ilyen (n+3) eleme-e O(n^2) stilusu feladatbol 3db
